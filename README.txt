@@ -13,7 +13,7 @@ found at the link below.
 
 https://fenicsproject.org/
 
-These codes ran under using the following versions of the software libraries:
+These codes ran under the following versions of the software libraries:
 
 FEniCS version: 2019.1.0
 mshr version:  2019.1.0
